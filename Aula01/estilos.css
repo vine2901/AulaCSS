@@ -56,3 +56,33 @@ h3
 {
     color: orangered;
 }
+
+.destaque
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}  
+
+.letra
+{
+    font-family: lucida handwriting;
+    font-size: 20px;
+    color: rgb(153, 184, 240);
+}
+
+.google
+{
+    font-family: 'Aclonica';
+    font-size: 22px;
+}
+
+.azulbebe
+{
+    color: cornflowerblue;
+}
+
+.letra2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
