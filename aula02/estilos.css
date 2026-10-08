@@ -1,0 +1,31 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+h1
+{
+    color: cornflowerblue;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.conteudo
+{
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.subtitulo
+{
+    font-size: 30px;
+    color: cornflowerblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
