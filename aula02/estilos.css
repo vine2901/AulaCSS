@@ -134,17 +134,42 @@ h1
 
 .menu
 {
-    background-color: blue;
-    height: 50px;
+    background-color: rgb(0, 162, 255);
+    height: 100px;
     display: flex;
     color: white;
     font-size: 25px;
     justify-content: space-around;
+    align-items: center;
 }
+
+.menu_img
+{
+    height: 75%;
+
+
+}
+
+
 
 .opcoes
 {
     display: flex;
+
+}
+
+.opcoes a
+{
+    color: aliceblue;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.opcoes a:hover
+{
+    color: blueviolet;
+    text-decoration: underline;
+    text-decoration-color:blueviolet ;
 }
 
 
